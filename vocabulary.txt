@@ -1,0 +1,210 @@
+@Family & people
+A1|я|I|Я дома.|Я is one letter: just one person — I.
+A1|ты|you (informal singular)|Ты здесь?|Use ты with a friend; вы is polite or plural.
+A1|он / она́ / оно́|he / she / it|Она дома.|он = masculine; она = feminine; оно = neuter.
+A1|мы|we|Мы вместе.|Я + ты = мы: I + you = we.
+A1|вы|you (polite or plural)|Вы говорите по-английски?|One person politely, or several people: вы.
+A1|они́|they|Они здесь.|Он is he; они adds more people: they.
+A1|челове́к|person|Это хороший человек.|Irregular plural: люди = people.
+A1|семья́|family|У меня большая семья.|A family photo helps: моя семья = my family.
+A1|ма́ма|mum / mother|Моя мама дома.|мама sounds like mama; feminine.
+A1|па́па|dad / father|Мой папа врач.|Despite ending in -а, папа is masculine.
+A1|брат|brother|Это мой брат.|брат and brother are distant language relatives.
+A1|сестра́|sister|Моя сестра учится.|сестра and sister share a recognisable s–s–t pattern.
+A1|друг / подру́га|male friend / female friend|Это моя подруга.|друг → друзья (friends); подруга is a female friend.
+A1|ребёнок|child|Ребёнок спит.|Irregular plural: дети = children.
+A2|роди́тели|parents|Мои родители живут здесь.|Род- connects to birth and family: родиться = be born.
+A2|родстве́нник|relative (male; generic)|У меня здесь есть родственники.|Same род- family root as родители.
+A2|сосе́д / сосе́дка|male neighbour / female neighbour|Моя соседка очень добрая.|Picture someone sitting next to you: a neighbour.
+A2|гость|guest|Сегодня у нас гости.|гость sounds a little like guest; plural гости.
+A2|знако́мый|acquaintance / someone you know|Это мой знакомый.|знать = know; знакомый = someone known to you.
+A2|муж / жена́|husband / wife|Мой муж работает дома.|Learn the pair together; муж is not just any man here.
+@Food & shopping
+A1|вода́|water|Я пью воду.|Think vodka without the k: the word водка comes from вода.
+A1|хлеб|bread|Я покупаю хлеб.|Picture a loaf beside a label: ХЛЕБ.
+A1|молоко́|milk|Я пью молоко.|Three open syllables: мо-ло-КО; neuter.
+A1|чай|tea|Я люблю чай.|Sounds like chai, a familiar tea word.
+A1|ко́фе|coffee|Утром я пью кофе.|Sounds like coffee; traditionally masculine: горячий кофе.
+A1|са́хар|sugar|Чай без сахара, пожалуйста.|сахар resembles sugar; stress on the first syllable: са́хар.
+A1|соль|salt|Передайте соль, пожалуйста.|Short word, small pinch; feminine despite the soft sign.
+A1|я́блоко|apple|Это красное яблоко.|The -о ending points to neuter: красное яблоко.
+A1|мя́со|meat|Я не ем мясо.|Picture a meat label: МЯСО; neuter.
+A1|ры́ба|fish|Я люблю рыбу.|Imagine a fish with a label РЫБА; feminine.
+A2|о́вощи|vegetables|Я покупаю овощи.|Think of a mixed vegetable basket: plural овощи.
+A2|фру́кты|fruit (plural)|Здесь продают фрукты.|Like the English fruit, with a к sound.
+A2|завтра́к|breakfast|Завтрак готов.|завтра = tomorrow; завтрак is the morning meal.
+A2|обе́д|lunch / midday meal|Обед в час.|Lunch at one: обед в час.
+A2|у́жин|dinner / evening meal|Мы готовим ужин.|Think of the final meal: вечером ужин.
+A2|поку́пка / покупа́ть|purchase (noun) / buy (verb, imperfective)|Я покупаю хлеб.|One family: покупка is the thing or act; покупать is the action.
+A2|про́дажа / продава́ть|sale (noun) / sell (verb, imperfective)|Здесь продают фрукты.|покупать ↔ продавать: buy ↔ sell.
+A2|це́на|price|Какая цена?|Picture the number on a price tag: цена.
+A2|ски́дка|discount|Сегодня скидка.|A discount knocks the price down: цена ниже.
+A2|сда́ча|change (money returned)|Вот ваша сдача.|At a checkout, сдача is the money handed back, not change in general.
+@City & travel
+A1|го́род|city / town|Это мой город.|A город has streets, shops and people; masculine.
+A1|у́лица|street|Это тихая улица.|Picture a street sign: улица Ленина.
+A1|дом|house / home|Это мой дом.|Like domicile: a home.
+A1|магази́н|shop / store|Магазин открыт.|False friend: магазин is a shop, not a magazine.
+A1|шко́ла|school|Школа рядом.|Sounds like school; feminine.
+A1|парк|park|Мы идём в парк.|Almost the same word as English park.
+A1|метро́|metro / underground|Я еду на метро.|Same international word; indeclinable neuter.
+A1|авто́бус|bus|Автобус здесь.|авто + бус: a bus.
+A1|такси́|taxi|Мы едем на такси.|Same international word; indeclinable neuter.
+A1|биле́т|ticket|У меня есть билет.|Picture a paper ticket labelled БИЛЕТ.
+A2|вокза́л|railway station|Где вокзал?|A railway station building: вокзал.
+A2|аэропо́рт|airport|Аэропорт далеко.|аэро + порт = air + port.
+A2|остано́вка|bus / tram stop|Это моя остановка.|остановиться = stop; остановка is where transport stops.
+A2|по́езд|train|Поезд уже здесь.|поезд runs on rails; езд- connects to travelling by vehicle.
+A2|доро́га|road / way|Это дорога к морю.|дорога = road; дорогой = expensive or dear — watch the ending.
+A2|пое́здка|trip / journey|Поездка была интересной.|A поездка often involves a vehicle; compare поезд.
+A2|путеше́ствие|travel / journey|Я люблю путешествия.|путь = path; imagine following a long path on a map.
+A2|гости́ница|hotel|Наша гостиница в центре.|гость = guest; гостиница is a place for guests.
+A2|пря́мо|straight ahead|Идите прямо.|Point straight ahead and say прямо.
+A2|напра́во / нале́во|to the right / to the left|Поверните направо.|прав- = right; лев- = left; на- gives direction here.
+@Home & objects
+A1|ква́ртира|flat / apartment|Это моя квартира.|Think of living quarters; feminine.
+A1|ко́мната|room|Комната большая.|Picture a room with a door label КОМНАТА.
+A1|стол|table / desk|Книга на столе.|One syllable, four legs: стол.
+A1|стул|chair|Это мой стул.|стол = table, стул = chair: change о to у and sit down.
+A1|крова́ть|bed|Кровать у окна.|A bed is a place to lie flat; feminine: моя кровать.
+A1|окно́|window|Окно открыто.|The final о looks like a round window; neuter.
+A1|дверь|door|Дверь закрыта.|дверь resembles door; feminine: моя дверь.
+A1|кни́га|book|Я читаю книгу.|Picture a book cover with one word: КНИГА.
+A1|телефо́н|telephone / phone|Где мой телефон?|Like telephone; stress on фон.
+A1|ключ|key|Вот мой ключ.|Imagine the key making a click: ключ.
+A2|ку́хня|kitchen|Мы на кухне.|Kitchen and кухня both begin with a k sound.
+A2|ва́нная|bathroom|Ванная рядом.|ванна = bathtub; ванная = bathroom.
+A2|холоди́льник|fridge / refrigerator|Молоко в холодильнике.|холод = cold; холодильник keeps things cold.
+A2|стира́льная маши́на|washing machine|Стиральная машина работает.|стирать = wash clothes; машина = machine.
+A2|зе́ркало|mirror|Зеркало на стене.|Look at your reflection and say зеркало; neuter.
+A2|полоте́нце|towel|Дайте полотенце, пожалуйста.|Imagine drying your hands on a towel labelled полотенце.
+A2|оде́жда|clothes / clothing|Это тёплая одежда.|одеваться = get dressed; одежда = what you wear.
+A2|о́бувь|footwear / shoes|Это удобная обувь.|Feminine collective word: обувь; a pair is пара обуви.
+A2|убо́рка / убира́ть|cleaning (noun) / tidy up (verb, imperfective)|Я убираю комнату.|уборка is the task; убирать is doing it.
+A2|ве́щь|thing / item|Это моя вещь.|Plural вещи: your belongings or things.
+@Everyday actions
+A1|быть|be / exist|Я хочу быть дома.|In the present, Russian often omits be: я дома = I am at home.
+A1|жить|live|Я живу в Москве.|жить → я живу; connect life to a place you live.
+A1|знать|know (a fact / person)|Я знаю ответ.|знать → я знаю: knowledge you already have.
+A1|понима́ть|understand|Я понимаю вопрос.|понимать → я понимаю; nod when you understand.
+A1|говори́ть|speak / talk|Я говорю по-русски.|говорить → я говорю; picture a speech bubble.
+A1|чита́ть|read|Я читаю книгу.|читать → я читаю; pair the action with книга.
+A1|писа́ть|write|Я пишу письмо.|писать → я пишу; stress matters: писа́ть = write.
+A1|слу́шать|listen|Я слушаю музыку.|слушать → я слушаю; deliberately listen, unlike just hearing.
+A1|смотре́ть|look / watch|Я смотрю фильм.|смотреть → я смотрю; use your eyes on purpose.
+A1|люби́ть|love / like|Я люблю музыку.|любить → я люблю; picture a heart.
+A2|на́чало / начина́ть|beginning (noun) / begin (verb, imperfective)|Мы начинаем урок.|начало is the start; начинать is the action of starting.
+A2|коне́ц / зака́нчивать|end (noun) / finish (verb, imperfective)|Я заканчиваю работу.|начинать ↔ заканчивать: start ↔ finish.
+A2|открыва́ть|open (verb, imperfective)|Я открываю окно.|Imagine opening an окно; opposite закрывать.
+A2|закрыва́ть|close (verb, imperfective)|Я закрываю дверь.|Imagine closing a дверь; opposite открывать.
+A2|выбира́ть|choose (verb, imperfective)|Я выбираю подарок.|Picture choosing one thing from many.
+A2|искать|look for / search|Я ищу ключ.|искать → я ищу; the key is missing.
+A2|находи́ть|find (verb, imperfective)|Я часто нахожу ошибки.|искать = search; находить = find what you searched for.
+A2|ждать|wait / expect|Я жду автобус.|ждать → я жду; imagine waiting at a bus stop.
+A2|встреча́ть|meet / greet someone (verb, imperfective)|Я встречаю друга.|встречать кого? Meet someone; встречаться с кем? meet up with someone.
+A2|возвраща́ться|return / come back (verb, imperfective)|Я возвращаюсь домой.|-ся: you yourself come back; возвращать = return something.
+@Time & weather
+A1|сего́дня|today|Сегодня я дома.|сегодня = this day: today.
+A1|за́втра|tomorrow|Завтра мы работаем.|Point to the next calendar square: завтра.
+A1|вчера́|yesterday|Вчера был дождь.|Point to the previous calendar square: вчера.
+A1|сейча́с|now|Сейчас я читаю.|сей + час historically this hour; think right now.
+A1|у́тро / у́тром|morning / in the morning|Утром я пью чай.|у́тро is the noun; утром tells when.
+A1|день / днём|day / during the day|Днём я работаю.|день = day; днём = in the daytime.
+A1|ве́чер / ве́чером|evening / in the evening|Вечером я дома.|вечер is the time of day; вечером tells when.
+A1|ночь / но́чью|night / at night|Ночью я сплю.|ночь is feminine; ночью = at night.
+A1|час|hour / o'clock|Сейчас час.|час is a time unit; часы = clock or watch.
+A1|неде́ля|week|На этой неделе я занят.|Seven days together make неделя.
+A2|ме́сяц|month|В этом месяце холодно.|месяц = month; also a crescent moon in another sense.
+A2|год|year|Это новый год.|Irregular counting: год, два года, пять лет.
+A2|вре́мя|time|У меня есть время.|время is neuter despite -я; времени = of time.
+A2|ра́но / по́здно|early / late|Сегодня я встал рано.|An opposite pair: рано ↔ поздно.
+A2|ча́сто / ре́дко|often / rarely|Я часто читаю.|An opposite pair: часто ↔ редко.
+A2|всегда́ / иногда́|always / sometimes|Я всегда пью чай утром.|всегда = every time; иногда = some of the time.
+A2|пого́да|weather|Сегодня хорошая погода.|Ask Какая погода? = What's the weather like?
+A2|дождь|rain|Сегодня идёт дождь.|Russian rain goes: идёт дождь = it is raining.
+A2|снег|snow|На улице снег.|Imagine a white снег-covered street.
+A2|со́лнце|sun|Сегодня светит солнце.|The л is silent in standard pronunciation: сонце.
+@Descriptions & feelings
+A1|большо́й / ма́ленький|big / small|Это большой дом.|Opposites: большой ↔ маленький.
+A1|хоро́ший / плохо́й|good / bad|Это хороший фильм.|Opposites; adjective endings change with the noun.
+A1|но́вый / ста́рый|new / old|Это новая книга.|новый дом, новая книга: masculine vs feminine.
+A1|краси́вый|beautiful / good-looking|Это красивый город.|красивый → красивая → красивое.
+A1|горя́чий / холо́дный|hot / cold|Это горячий чай.|Picture hot tea beside cold water.
+A1|тёплый|warm|Сегодня тёплый день.|ё carries stress: тёплый. Warm is less intense than hot.
+A1|вку́сный|tasty / delicious|Это вкусный суп.|вкус = taste; вкусный = having a good taste.
+A1|до́брый|kind / good-natured|Она очень добрая.|добрый describes character; добрый день is a greeting.
+A1|ра́достный / гру́стный|joyful / sad|Сегодня он радостный.|Picture a happy face and a sad face.
+A1|интере́сный|interesting|Это интересная книга.|Like interesting; интерес = interest.
+A2|ску́чный|boring|Фильм скучный.|скука = boredom; скучный = causing boredom.
+A2|тру́дный / лёгкий|difficult / easy|Это трудный вопрос.|For a task: трудный ↔ лёгкий. лёгкий also means light in weight.
+A2|бы́стрый / ме́дленный|fast / slow|Это быстрый поезд.|For speed: быстрый ↔ медленный.
+A2|доро́гой / дешёвый|expensive / cheap|Это дорогой билет.|Compare доро́гой (expensive) and доро́га (road).
+A2|чи́стый / гря́зный|clean / dirty|Это чистая комната.|Picture a room before and after cleaning.
+A2|пра́вый / ле́вый|right / left|Это правая рука.|Right hand правая рука; left hand левая рука.
+A2|свобо́дный / за́нятый|free / busy; occupied|Сегодня я свободен.|свободное время = free time; занятый человек = busy person.
+A2|уста́лый|tired|Я усталый после работы.|Common short forms: я устал (male), я устала (female).
+A2|споко́йный|calm / quiet|Это спокойный человек.|Спокойной ночи = good night; same calm root.
+A2|удо́бный|comfortable / convenient|Это удобный стул.|удобный стул = comfortable chair; удобное время = convenient time.
+@Work & study
+A1|рабо́та / рабо́тать|work (noun) / work (verb, imperfective)|Я работаю дома.|One root: работа is work; работать is to work.
+A1|учёба / учи́ться|studies (noun) / study (verb, imperfective)|Я учусь в школе.|учиться = study; учить can mean teach or learn something.
+A1|студе́нт / студе́нтка|male student / female student|Моя сестра студентка.|Like student, with masculine and feminine forms.
+A1|учи́тель / учи́тельница|male teacher / female teacher|Это мой учитель.|учить = teach; учитель = the person who teaches.
+A1|уро́к|lesson|Урок начинается.|Picture one lesson in a school timetable.
+A1|язы́к|language / tongue|Я изучаю русский язык.|One word for language and the tongue used to speak it.
+A1|сло́во|word|Это новое слово.|One word on a flashcard: слово; neuter.
+A1|вопро́с / спра́шивать|question (noun) / ask (verb, imperfective)|Я спрашиваю учителя.|вопрос is what you ask; спрашивать is the action.
+A1|отве́т / отвеча́ть|answer (noun) / answer (verb, imperfective)|Я отвечаю на вопрос.|вопрос → ответ: question → answer.
+A1|тетра́дь|exercise book / notebook|Я пишу в тетради.|тетрадь is feminine; picture a squared school notebook.
+A2|зада́ние|task / assignment|Это домашнее задание.|домашнее задание = homework; neuter ending -ие.
+A2|упражне́ние|exercise (practice task)|Я делаю упражнение.|A practice exercise, for language or physical training.
+A2|о́шибка|mistake / error|В ответе есть ошибка.|An ошибка is a learning opportunity: find it, fix it.
+A2|экза́мен|exam / examination|Завтра у меня экзамен.|Like examination; stress on за.
+A2|оце́нка|mark / grade; assessment|У меня хорошая оценка.|Think of a grade written on your test.
+A2|расписа́ние|timetable / schedule|Где расписание?|писать = write; picture lessons written into a timetable.
+A2|профе́ссия|profession / occupation|Какая у вас профессия?|Very close to profession; feminine.
+A2|колле́га|colleague|Это моя коллега.|Can be male or female; мой коллега / моя коллега.
+A2|зарпла́та|salary / pay|Зарплата будет завтра.|Short for заработная плата: money paid for work.
+A2|переры́в|break / interval|Сейчас перерыв.|A gap between lessons or work: перерыв.
+@Body & health
+A1|голова́|head|У меня болит голова.|Point to your head: голова.
+A1|рука́|hand / arm|Это правая рука.|Russian рука covers both hand and arm.
+A1|нога́|leg / foot|У меня болит нога.|Russian нога covers both leg and foot.
+A1|глаз|eye|У него голубые глаза.|Plural глаза; picture two eyes.
+A1|у́хо|ear|У меня болит ухо.|у́хо → у́ши: one ear → ears.
+A1|нос|nose|У меня красный нос.|нос and nose sound similar.
+A1|рот|mouth|Откройте рот.|Short word for a mouth; рта = of the mouth.
+A1|врач|doctor|Мой брат врач.|A doctor: врач; feminine occupation also often врач.
+A1|апте́ка|pharmacy / chemist's|Где аптека?|Related to apothecary; a place for medicine.
+A1|боле́ть|be ill; ache|Я болею.|я болею = I am ill; голова болит = my head aches.
+A2|здоро́вье|health|Это полезно для здоровья.|Link to здоро́вый = healthy, not здо́рово = great.
+A2|боль|pain|У меня сильная боль.|болеть and боль share the pain/illness root; feminine.
+A2|лека́рство|medicine / medication|Я принимаю лекарство.|принимать лекарство = take medicine; neuter.
+A2|те́мпература|temperature / fever|У меня температура.|Like temperature; у меня температура often means I have a fever.
+A2|больни́ца|hospital|Он работает в больнице.|боль = pain; больница is where sick people receive care.
+A2|зуб|tooth|У меня болит зуб.|Plural зубы; picture a tooth on a dentist's sign.
+A2|живо́т|belly / stomach area|У меня болит живот.|боль в животе = abdominal pain; not a specific stomach organ.
+A2|спина́|back (body)|У меня болит спина.|спина resembles spine; it means the back area.
+A2|о́тдых / отдыха́ть|rest (noun) / rest (verb, imperfective)|Я отдыхаю дома.|о́тдых is the rest; отдыхать is to rest.
+A2|спать|sleep|Я хочу спать.|спать → я сплю; imagine closing your eyes.
+@Useful phrases & connections
+A1|здра́вствуйте|hello (polite)|Здравствуйте! Как дела?|Use with strangers or politely; a greeting linked historically to health.
+A1|приве́т|hi (informal)|Привет! Как ты?|A friendly short greeting for friends.
+A1|до свида́ния|goodbye|До свидания! До завтра!|Literally until seeing one another; a polite goodbye.
+A1|спаси́бо|thank you|Спасибо за помощь.|Learn as a whole chunk: спасибо.
+A1|пожа́луйста|please / you're welcome|Чай, пожалуйста.|It works when requesting and when responding to thanks.
+A1|извини́те|excuse me / sorry (polite)|Извините, где метро?|извините is polite/plural; извини is informal singular.
+A1|да / нет|yes / no|Да, я понимаю.|A tiny opposite pair: да ↔ нет.
+A1|кто / что|who / what|Кто это? Что это?|кто asks about a person; что asks about a thing.
+A1|где / куда́|where (location) / where to|Где вы? Куда вы идёте?|где = location; куда = destination. They are not interchangeable.
+A1|как / когда́|how / when|Как дела? Когда урок?|как asks about manner; когда asks about time.
+A2|почему́ / потому́ что|why / because|Почему? Потому что холодно.|Question and reason: почему → потому что.
+A2|мо́жно / нельзя́|it is allowed / it is not allowed|Здесь можно сидеть.|Permission opposites; нельзя can also mean impossible in context.
+A2|ну́жно|need to / it is necessary|Мне нужно работать.|мне нужно + infinitive = I need to do something.
+A2|по́мощь / помога́ть|help (noun) / help (verb, imperfective)|Спасибо за помощь.|помощь is help; помогать is helping someone.
+A2|к сожале́нию|unfortunately|К сожалению, я занят.|A useful whole phrase before bad news.
+A2|к сча́стью|fortunately|К счастью, всё хорошо.|счастье = happiness; к счастью introduces good news.
+A2|коне́чно|of course / certainly|Конечно, можно.|Use as a confident answer: конечно!
+A2|наве́рное|probably|Наверное, он дома.|Probably: a guess, not certainty.
+A2|то́же|also / too|Я тоже люблю чай.|Me too: я тоже.
+A2|ещё / уже́|still; more / already|Я ещё работаю. Он уже дома.|ещё = still or more; уже = already. Choose by context.
