@@ -1,14 +1,107 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Learn everyday Russian with 200 A1/A2 flashcards, quizzes, stress marks and examples. Save your progress and study offline."><meta name="theme-color" content="#243e3b"><title>Русский клуб · Russian Study Club</title><style>/*STYLE*/</style></head><body>
-<header><a class="brand" href="#"><b class="seal">Я</b><span>Русский клуб<small>RUSSIAN STUDY CLUB · A1 + A2</small></span></a><span class="edition">A LITTLE EVERY DAY ˙ᵕ˙</span></header>
-<main><section class="intro"><div><div class="eyebrow">YOUR PERSONAL LANGUAGE CLUB · OFFLINE EDITION</div><h1>По одному <em>слову.</em><span>One word closer. ˙ᵕ˙</span></h1><p>Everyday Russian, one small step at a time.<br>200 cards · stress marks · examples · memory hints</p></div><div class="ticket"><small>ПРОПУСК В НОВЫЙ ЯЗЫК</small><strong>YOU CAN<br>DO THIS.</strong><span>ADMIT ONE · ONE DAY AT A TIME ♡</span></div></section>
-<section class="stats" aria-label="Study statistics"><div><strong id="total">200</strong><span>CARDS IN YOUR ROOM</span></div><div><strong id="learnedTotal">0</strong><span>LEARNED WORDS</span></div><div><strong id="importantTotal">0</strong><span>IMPORTANT WORDS</span></div><div><strong id="todayTotal">0</strong><span>REVIEWED TODAY</span></div></section>
-<section class="savebar"><div><b>♡ Your progress stays with you.</b><p id="saveStatus" role="status">Opening your study room…</p></div><div class="actions"><button id="connectFile">Connect progress file</button><button id="backup">Download backup</button><button id="import">Restore backup</button><input id="importFile" type="file" accept="application/json,.json" hidden></div></section>
-<div class="workspace"><aside><div class="eyebrow">01 / PICK YOUR STACK</div><nav id="categories" aria-label="Word categories"></nav><div class="little-note">Маленькие шаги считаются.<br><i>Small steps count.</i><p>Start with 10 words.<br>Then just 10 more.</p></div></aside><section class="study"><div class="eyebrow">02 / MAKE IT STICK</div><div class="title-row"><h2 id="stackTitle">All words</h2><span id="stackCount" class="pill"></span></div><div class="tabs" role="group" aria-label="Study mode"><button data-mode="cards">↻ Flashcards</button><button data-mode="quiz">✳ Test yourself</button><button data-mode="library">☷ Word library</button><button data-mode="links">↔ Word links</button></div><div id="controls"><label><input id="unlearned" type="checkbox"> Still learning only</label><button id="shuffle">↝ Shuffle</button><button id="restart">↺ Restart</button></div><div id="content"></div><div class="motivation" id="motivation">Ошибки — часть учёбы. Mistakes are part of learning. ♡</div></section></div>
-<section class="about"><h3>Your pocket Russian room.</h3><p>Russian on the front, English on the back. The accent mark (а́) shows stress; ё is always stressed. Related noun/verb forms share a card and keep their roles in the translation. Vocabulary is a curated beginner A1/A2 selection; labels are study guides, not a complete official exam list. Regular exposure will make these words familiar.</p><p>↑ Learn again · ↓ I know it · Space flip · ← → navigate · In tests: 1–4 choose, Enter continue. Important words = cards marked “learn again” at least twice. Forgotten after learning = cards you marked known, then unknown. “Seen” counts your study decisions, not page views.</p><p>Progress saves on this device in this browser. Return to the same website address and browser profile to continue. Progress does not automatically sync between devices. To move it, download a backup and restore it on the other device. In supported browsers, you can also connect a progress JSON file for automatic backup, or download a self-contained study file with your progress for offline use. Browser data can be cleared, so keep a backup.</p><button id="downloadHtml">↓ Download study file with my progress</button><p class="source">Learning themes: <a href="https://www.pushkininstitute.ru/beginner" target="_blank" rel="noreferrer">Pushkin Institute A1</a> · <a href="https://www.pushkininstitute.ru/basic" target="_blank" rel="noreferrer">A2</a>. Definitions, examples and hints in this file are an original practice selection.</p></section>
-</main><footer>MADE FOR LITTLE DAILY VICTORIES · У ТЕБЯ ПОЛУЧИТСЯ ♡</footer><dialog id="fileDialog"><h2>Existing progress file</h2><p id="fileQuestion"></p><div class="actions"><button id="useExisting">Restore its progress</button><button id="replaceExisting">Replace with current progress</button><button id="cancelExisting">Cancel</button></div></dialog><div id="toast" role="status"></div>
-<script id="word-data" type="application/json">/*WORDS*/</script>
-<script id="embedded-progress" type="application/json">null</script>
-<script>/*PERSISTENCE*/</script>
-<script>/*APP*/</script>
-</body></html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Learn everyday Russian with 200 A1/A2 flashcards, quizzes, stress marks and examples. A study desk inspired by the Russian avant-garde.">
+  <meta name="theme-color" content="#c33426">
+  <title>Русский клуб · Russian Study Club</title>
+  <style>/*STYLE*/</style>
+</head>
+<body>
+  <a class="skip-link" href="#study-room">Skip to study desk</a>
+  <div class="topline"><span>ЯЗЫК. КУЛЬТУРА. ПРАКТИКА.</span><span>A LANGUAGE IN MOTION</span></div>
+  <header class="masthead">
+    <a class="brand" href="#" aria-label="Russian Study Club home">
+      <b class="seal" lang="ru" aria-hidden="true">Я</b>
+      <span><span class="brand-name" lang="ru">РУССКИЙ КЛУБ</span><small>RUSSIAN STUDY CLUB</small></span>
+    </a>
+    <div class="header-links"><a href="#study-room">The study desk ↗</a><a href="#field-notes">Field notes ↗</a></div>
+    <span class="edition">VOL. 01<span>A1 — A2</span></span>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="hero-title">
+      <div class="intro-copy">
+        <div class="eyebrow"><span class="red-square" aria-hidden="true"></span> EVERYDAY RUSSIAN / AN INDEPENDENT STUDY CLUB</div>
+        <h1 id="hero-title" lang="ru"><span class="hero-word">СЛОВО</span><span class="hero-phrase">ЗА <em>СЛОВОМ.</em></span></h1>
+        <p class="hero-translation">Word by word. A world opens.</p>
+        <p class="intro-description">Build a language, one word at a time.<br>200 essential words. Real examples. A daily practice.</p>
+        <div class="hero-action"><a class="start-study" href="#study-room">Start studying <span aria-hidden="true">↗</span></a><span>YOUR NEXT WORD<br>STARTS HERE.</span></div>
+      </div>
+      <figure class="poster">
+        <div class="poster-caption"><span>ЭТЮД № 01</span><span>FORM / WORD / MEANING</span></div>
+        <svg class="poster-art" viewBox="0 0 460 410" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+          <path d="M28 30H432M28 380H432M35 22V389M425 22V389" fill="none" stroke="currentColor" stroke-width="1" opacity=".22"/>
+          <path d="M28 30H43M35 22V38M417 380H432M425 372V389" fill="none" stroke="currentColor" stroke-width="2"/>
+          <circle cx="290" cy="151" r="125" fill="var(--red)"/>
+          <text x="285" y="226" text-anchor="middle" fill="var(--paper)" font-family="Arial, sans-serif" font-size="211" font-weight="900">Я</text>
+          <path d="M24 307L379 102L415 165L60 370Z" fill="var(--ink)"/>
+          <text transform="translate(94 323) rotate(-30)" fill="var(--paper)" font-family="Arial, sans-serif" font-size="53" font-weight="800" letter-spacing="7">УЧИСЬ</text>
+          <path d="M80 58L146 96L80 134Z" fill="var(--red)"/>
+          <path d="M69 47V149M59 139H155" fill="none" stroke="var(--ink)" stroke-width="2"/>
+          <rect x="293" y="313" width="58" height="58" fill="var(--ink)" transform="rotate(-15 322 342)"/>
+          <path d="M369 286V364M357 286V364M345 286V304" stroke="var(--red)" stroke-width="5"/>
+          <text x="77" y="194" fill="var(--ink)" font-family="monospace" font-size="11" letter-spacing="3">А Б В Г Д</text>
+          <text x="83" y="392" fill="var(--ink)" font-family="monospace" font-size="9" letter-spacing="2">СЛОВО → МЫСЛЬ → МИР</text>
+        </svg>
+        <figcaption><span>RUSSIAN AVANT-GARDE</span><span>1910 — 1930 ↗</span></figcaption>
+      </figure>
+    </section>
+
+    <section class="stats" aria-label="Study statistics">
+      <div class="stat-total"><span class="stat-index">01 / THE COLLECTION</span><strong id="total">200</strong><span>WORDS TO DISCOVER</span></div>
+      <div><span class="stat-index">02 / YOUR PROGRESS</span><strong id="learnedTotal">0</strong><span>LEARNED WORDS</span></div>
+      <div><span class="stat-index">03 / TAKE ANOTHER LOOK</span><strong id="importantTotal">0</strong><span>IMPORTANT WORDS</span></div>
+      <div><span class="stat-index">04 / KEEP THE RHYTHM</span><strong id="todayTotal">0</strong><span>REVIEWED TODAY</span></div>
+    </section>
+
+    <div class="desk-heading" id="study-room"><h2><span aria-hidden="true">↘</span> THE STUDY DESK</h2><span>A SMALL PRACTICE. EVERY DAY.</span></div>
+    <section class="savebar" aria-label="Progress and backups">
+      <div><b><span class="status-dot" aria-hidden="true"></span> Your progress, preserved.</b><p id="saveStatus" role="status">Opening your study room…</p></div>
+      <div class="actions"><button id="connectFile">Connect progress file</button><button id="backup">↓ Download backup</button><button id="import">↑ Restore backup</button><input id="importFile" type="file" accept="application/json,.json" hidden></div>
+    </section>
+
+    <div class="workspace">
+      <aside>
+        <div class="eyebrow">I. CHOOSE A COLLECTION</div>
+        <nav id="categories" aria-label="Word categories"></nav>
+        <div class="little-note"><span class="note-symbol" aria-hidden="true">↗</span><strong lang="ru">МАЛЕНЬКИЕ<br>ШАГИ.</strong><p>Small steps.<br>A bigger world.</p><span class="note-rule"></span><small>BEGIN WITH TEN WORDS.<br>COME BACK TOMORROW.</small></div>
+      </aside>
+      <section class="study" aria-label="Study collection">
+        <div class="eyebrow">II. PUT WORDS INTO PRACTICE</div>
+        <div class="title-row"><h2 id="stackTitle">All words</h2><span id="stackCount" class="pill"></span></div>
+        <div class="tabs" role="group" aria-label="Study mode">
+          <button data-mode="cards"><span class="tab-number" aria-hidden="true">01</span> Flashcards</button>
+          <button data-mode="quiz"><span class="tab-number" aria-hidden="true">02</span> Test yourself</button>
+          <button data-mode="library"><span class="tab-number" aria-hidden="true">03</span> Word library</button>
+          <button data-mode="links"><span class="tab-number" aria-hidden="true">04</span> Word links</button>
+        </div>
+        <div id="controls"><label><input id="unlearned" type="checkbox"> Still learning only</label><button id="shuffle">↝ Shuffle</button><button id="restart">↺ Restart</button></div>
+        <div id="content"></div>
+        <div class="motivation" id="motivation"><span lang="ru">Ошибки — часть учёбы.</span><span>Mistakes are part of learning.</span></div>
+      </section>
+    </div>
+
+    <section class="about" id="field-notes" aria-labelledby="notes-title">
+      <div class="about-title"><div class="eyebrow">III. FIELD NOTES</div><h2 id="notes-title">A language.<br>A daily practice.</h2><span class="about-mark" lang="ru" aria-hidden="true">А—Я</span></div>
+      <div class="about-copy">
+        <h3>Read the word. Find its rhythm.</h3>
+        <p>Russian on the front, English on the back. The accent mark (а́) shows stress; ё is always stressed. Related noun/verb forms share a card and keep their roles in the translation. Vocabulary is a curated beginner A1/A2 selection; labels are study guides, not a complete official exam list.</p>
+        <h3>A few keys to keep you moving.</h3>
+        <p>↑ Learn again · ↓ I know it · Space flip · ← → navigate. In tests: 1–4 choose, Enter continue. Important words are cards marked “learn again” at least twice. “Forgotten after learning” tracks words marked known, then unknown. “Seen” counts study decisions, not page views.</p>
+        <h3>Take your progress with you.</h3>
+        <p>Progress saves on this device in this browser. Return to the same address and browser profile to continue. To move between devices, download a backup and restore it on the other device. Supported browsers can connect a progress JSON file for automatic backup. Download a self-contained study file to keep learning offline. Keep a backup before clearing browser data.</p>
+        <button id="downloadHtml">↓ Download study file with my progress</button>
+        <p class="source">Learning themes: <a href="https://www.pushkininstitute.ru/beginner" target="_blank" rel="noreferrer">Pushkin Institute A1 ↗</a> · <a href="https://www.pushkininstitute.ru/basic" target="_blank" rel="noreferrer">A2 ↗</a>. Definitions, examples and hints are an original practice selection.</p>
+      </div>
+    </section>
+  </main>
+  <footer><a class="footer-brand" href="#" lang="ru">РУССКИЙ КЛУБ<span aria-hidden="true">↗</span></a><div>ONE WORD CLOSER.<br><span>INSPIRED BY THE RUSSIAN AVANT-GARDE · 1910–1930</span></div><span class="footer-edition">A1 / A2<br>200 WORDS</span></footer>
+  <dialog id="fileDialog"><div class="eyebrow">PROGRESS ARCHIVE</div><h2>Existing progress file</h2><p id="fileQuestion"></p><div class="actions"><button id="useExisting">Restore its progress</button><button id="replaceExisting">Replace with current progress</button><button id="cancelExisting">Cancel</button></div></dialog>
+  <div id="toast" role="status"></div>
+  <script id="word-data" type="application/json">/*WORDS*/</script>
+  <script id="embedded-progress" type="application/json">null</script>
+  <script>/*PERSISTENCE*/</script>
+  <script>/*APP*/</script>
+</body>
+</html>
